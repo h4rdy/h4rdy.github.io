@@ -1,0 +1,10 @@
+#用户名&密码字典
+##Top100用户名字典
+[Top100用户名字典](http://1.h4rdy.applinzi.com/5/name.txt)
+##Top10k密码字典
+[Top10k密码字典](http://1.h4rdy.applinzi.com/5/password.txt)
+##webshell密码字典
+[webshell密码字典](http://1.h4rdy.applinzi.com/5/webshell.txt)
+##域名爆破字典
+[域名密码字典](http://1.h4rdy.applinzi.com/5/yuming.txt)
+##未完待续...
